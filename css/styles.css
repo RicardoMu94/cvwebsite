@@ -123,14 +123,14 @@ p {
 .top-cloud {
   position: absolute;
   right: 300px;
-  top: 50px
+  top: 50px;
 }
 
 .fox-image {
   position: absolute;
   width: 5%;
   bottom: 1rem;
-  left:50%
+  left:50%;
 }
 
 .service-image {
@@ -149,5 +149,5 @@ p {
 
 .footer-link {
   padding: 0 10px;
-  margin-bottom: 15px
+  margin-bottom: 15px;
 }
